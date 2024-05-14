@@ -5,3 +5,18 @@
 }
 
 
+.nav-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav-section img {
+    padding: 4rem;
+}
+
+.nav-links-section a {
+    padding: 1.7rem;
+    color: rgb(136, 136, 147);
+    text-decoration: none;
+}
