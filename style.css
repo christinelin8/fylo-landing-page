@@ -27,3 +27,7 @@
     color: rgb(136, 136, 147);
     text-decoration: none;
 }
+
+.main-section {
+    display: flex;
+}
