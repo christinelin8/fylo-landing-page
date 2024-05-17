@@ -12,11 +12,18 @@
 }
 
 .nav-section img {
-    padding: 4rem;
+    padding: 3rem;
+}
+
+.nav-links-section {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+
+    padding: 3rem;
 }
 
 .nav-links-section a {
-    padding: 1.7rem;
+    padding: 1.5rem;
     color: rgb(136, 136, 147);
     text-decoration: none;
 }
